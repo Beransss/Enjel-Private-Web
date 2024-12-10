@@ -17,7 +17,7 @@
 .tengah2 span {
     font-weight: 350;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .uwu {
@@ -278,7 +278,7 @@
     
     .tengah2 {
         position: relative;
-        margin: 25% auto;
+        margin: 10% auto;
         background-position: center;
         background-size: 100%;
         background-repeat: repeat;
