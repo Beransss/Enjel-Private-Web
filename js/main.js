@@ -8,7 +8,7 @@ document.querySelectorAll(".tombol").forEach((btn) => {
 
     // Buat elemen gambar untuk GIF
     const gif = document.createElement("img");
-    gif.style.width = "200px"; // Ukuran yang lebih realistis untuk tampilan
+    gif.style.width = "150px"; // Ukuran yang lebih realistis untuk tampilan
     gif.style.height = "auto";
 
     // Buat elemen teks untuk reaksi
