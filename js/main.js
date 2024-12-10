@@ -8,12 +8,12 @@ document.querySelectorAll(".tombol").forEach((btn) => {
 
     // Buat elemen gambar untuk GIF
     const gif = document.createElement("img");
-    gif.style.width = "150px"; // Ukuran yang lebih realistis untuk tampilan
+    gif.style.width = "100px"; // Ukuran yang lebih realistis untuk tampilan
     gif.style.height = "auto";
 
     // Buat elemen teks untuk reaksi
     const text = document.createElement("p");
-    text.style.fontSize = "18px"; // Biar lebih besar dan jelas
+    text.style.fontSize = "14px"; // Biar lebih besar dan jelas
     text.style.color = "#333";
 
     switch (emotion) {
